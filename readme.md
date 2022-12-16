@@ -1,4 +1,4 @@
-# Scale Balance
+# Isomorphic
 
 The projects is all about developing an app that checks ​two strings s and t, to determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
 
