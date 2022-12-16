@@ -1,10 +1,10 @@
 # Scale Balance
 
-The projects is all about balancing a scale of two inputs with several other inputs.
+The projects is all about developing an app that checks ​two strings s and t, to determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
 
 ## App
 
-![Home](assets/images/Screenshot%20from%202022-12-13%2016-02-26.png)
+![Home](assets/images/Screenshot%20from%202022-12-16%2016-51-15.png)
 
 ### Built With
 
@@ -24,14 +24,14 @@ Knowledge about:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:kngcl/scalebalance.git` using your terminal.
+- Clone this repository with `git@github.com:kngcl/isomorphic.git` using your terminal.
 - Change to the project directory by entering: cd parallax in the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:kngcl/scalebalance.git`
-- $ `cd scalebalance`
-- $ `git checkout feature/scalebalance`
+- $ git clone `git@github.com:kngcl/isomorphic.git`
+- $ `cd isomorphic`
+- $ `git checkout feature/isomorphic`
 
 ## Start App
 
@@ -41,13 +41,13 @@ Knowledge about:
 
 👤 **kngcl**
 
-- GitHub: [@kngcl](https://github.com/kngcl/scalebalance)
+- GitHub: [@kngcl](https://github.com/kngcl/isomorphic)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kngcl/scalebalance/issues).
+Feel free to check the [issues page](https://github.com/kngcl/isomorphic/issues).
 
 ## 📝 License
 
