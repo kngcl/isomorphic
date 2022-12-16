@@ -4,7 +4,7 @@ The projects is all about developing an app that checks ​two strings s and t, 
 
 ## App
 
-![Home](assets/images/Screenshot%20from%202022-12-16%2016-51-15.png)
+![Home](assets/images/Screenshot%20from%202022-12-16%2017-51-55.png)
 
 ### Built With
 
