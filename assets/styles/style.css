@@ -1,0 +1,45 @@
+.isomorphic {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  background-color: #372948;
+  padding: 2rem;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 2;
+}
+
+em {
+  text-align: center;
+  font-size: xx-large;
+  color: #fff;
+}
+
+b {
+  background-color: #b48787;
+  padding: 5rem;
+  font-size: xx-large;
+  border: 1px solid #372948;
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 1rem;
+  font-size: larger;
+  border: 1px solid #372948;
+}
+
+button {
+  padding: 1rem;
+  font-size: x-large;
+  background-color: #ffcaca;
+  border: 1px solid #ffcaca;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+button:hover {
+  background-color: #b48787;
+  color: #fff;
+}
